@@ -1,0 +1,15 @@
+#casting merubah tipe data
+
+#operator casting
+data_int = 9
+print(data_int)
+
+data_float = float(data_int)
+print(data_float)
+
+data_str = str(data_int)
+print(data_str)
+
+data_bool = bool(data_int)
+print(data_bool)
+
