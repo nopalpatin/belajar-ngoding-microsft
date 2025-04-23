@@ -1,14 +1,3 @@
-print("Hello, World!")
-a = 1
-print(a)
-
-# variable adalah tempat untuk menyimpan data
-a = 1
-b = 2
-c = 3
-
-print("nilai a b c =",a, b, c)
-
 #jenis-jenis tipe data
 
 # variable dengan tipe data string
