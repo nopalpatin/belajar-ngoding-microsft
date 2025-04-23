@@ -11,5 +11,5 @@ data_str = str(data_int)
 print(data_str)
 
 data_bool = bool(data_int)
-print(data_bool)
+print(data_bool) #akan false jika 0
 
