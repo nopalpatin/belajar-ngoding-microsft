@@ -21,14 +21,8 @@ print(a >= b)
 #operator <= (lebih kecil sama dengan)
 print(a <= b)
 
-#operator and (dan)
-print(a == b and a < b)
-
-#operator or (atau)
-print(a == b or a < b)
-
-#operator not (tidak)
-print(not a == b)
-
 #operator is (sama dengan)
 print(a is b)
+
+#operator is not (tidak sama dengan)
+print(a is not b)
